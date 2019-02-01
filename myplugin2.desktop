@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=myplugin2
+X-Python-2-Compatible=false
+Name=My Own Plugin 2
+Comment=Our very own plugin. 2
